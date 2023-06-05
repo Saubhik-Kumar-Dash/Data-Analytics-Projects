@@ -1,0 +1,176 @@
+Rank_2009,EN_country,ISO,Score_N
+1,Denmark,DNK,0
+2,Norway,NOR,0
+3,Ireland,IRL,0
+4,Finland,FIN,0
+5,Sweden,SWE,0
+6,Estonia,EST,5
+7,Switzerland,CHE,1
+8,Netherlands,NLD,1
+9,Iceland,ISL,2
+10,Lithuania,LTU,225
+11,Malta,MLT,25
+12,Belgium,BEL,25
+13,New Zealand,NZL,3
+14,Austria,AUT,3
+15,Latvia,LVA,3
+16,Australia,AUS,3125
+17,Japan,JPN,325
+18,Germany,DEU,35
+19,Canada,CAN,37
+20,United States (US territory),USA2,4
+21,Luxembourg,LUX,4
+22,United Kingdom,GBR,4
+23,Jamaica,JAM,475
+24,Czech Republic,CZE,5
+25,Hungary,HUN,55
+26,Cyprus,CYP,55
+27,Ghana,GHA,6
+28,Trinidad and Tobago,TTO,7
+29,Uruguay,URY,7625
+30,Costa Rica,CRI,8
+31,Portugal,PRT,8
+32,Mali,MLI,8
+33,South Africa,ZAF,85
+34,North Macedonia,MKD,875
+35,Greece,GRC,9
+36,Namibia,NAM,9
+37,Slovenia,SVN,95
+38,Poland,POL,95
+39,Guyana,GUY,105
+40,Chile,CHL,105
+41,Bosnia and Herzegovina,BIH,105
+42,Suriname,SUR,106
+43,France,FRA,1066666667
+44,Cape Verde,CPV,11
+45,Slovakia,SVK,11
+46,Spain,ESP,11
+47,Argentina,ARG,1133333333
+48,Hong Kong,HKG,1175
+49,Italy,ITA,1214285714
+50,Romania,ROU,125
+51,Maldives,MDV,14
+52,Mauritius,MUS,14
+53,Cyprus North,CTU,14
+54,Paraguay,PRY,1433333333
+55,Panama,PAN,145
+56,Papua New Guinea,PNG,147
+57,Haiti,HTI,15
+58,Burkina Faso,BFA,15
+59,Taiwan,TWN,1508333333
+60,Kuwait,KWT,1525
+61,Lebanon,LBN,1541666667
+62,Malawi,MWI,155
+63,Togo,TGO,155
+64,Tanzania,TZA,155
+65,Liberia,LBR,155
+66,Botswana,BWA,155
+67,Serbia,SRB,155
+68,Bulgaria,BGR,1561111111
+69,South Korea,KOR,1566666667
+70,Bhutan,BTN,1575
+71,Brazil,BRA,15875
+72,Seychelles,SYC,16
+73,Benin,BEN,16
+74,East Timor,TLS,16
+75,Kosovo,XKO,1658333333
+76,Nicaragua,NIC,1675
+77,Montenegro,MNE,17
+78,Croatia,HRV,1716666667
+79,El Salvador,SLV,1725
+80,Central African Republic,CAF,1775
+81,Georgia,GEO,1883333333
+82,Mozambique,MOZ,19
+83,Comoros,COM,19
+84,Ecuador,ECU,20
+85,Peru,PER,20875
+86,Uganda,UGA,215
+87,United Arab Emirates,ARE,215
+88,Albania,ALB,2175
+89,Senegal,SEN,22
+90,Ukraine,UKR,22
+91,Mongolia,MNG,2333333333
+92,Guinea-Bissau,GNB,235
+93,Israel (Israeli territory),ISR1,2375
+94,Qatar,QAT,24
+95,Bolivia,BOL,2416666667
+96,Kenya,KEN,25
+97,Zambia,ZMB,2675
+98,Dominican Republic,DOM,2683333333
+99,Lesotho,LSO,275
+100,Mauritania,MRT,285
+101,Guinea,GIN,285
+102,Indonesia,IDN,285
+103,Ivory Coast,CIV,29
+104,Burundi,BDI,29
+105,India,IND,2933333333
+106,Guatemala,GTM,295
+107,Oman,OMN,295
+108,United States (outside US territory),USA1,30
+109,Cameroon,CMR,305
+110,Djibouti,DJI,31
+111,Armenia,ARM,31125
+112,Jordan,JOR,31875
+113,Tajikistan,TJK,32
+114,Moldova,MDA,3375
+115,Sierra Leone,SLE,34
+116,Congo,COG,3425
+117,Cambodia,KHM,3516666667
+118,Nepal,NPL,35625
+119,Bahrain,BHR,365
+120,Angola,AGO,365
+121,Bangladesh,BGD,3733333333
+122,Turkey,TUR,3825
+123,Philippines,PHL,3825
+124,Venezuela,VEN,395
+125,Kyrgyzstan,KGZ,40
+126,Colombia,COL,40125
+127,Morocco,MAR,41
+128,Honduras,HND,42
+129,Gabon,GAB,435
+130,Thailand,THA,44
+131,Malaysia,MYS,4425
+132,Chad,TCD,445
+133,Singapore,SGP,45
+134,Madagascar,MDG,4583333333
+135,Nigeria,NGA,46
+136,Zimbabwe,ZWE,465
+137,Mexico,MEX,4825
+138,Gambia,GMB,4825
+139,Niger,NER,485
+140,Ethiopia,ETH,49
+141,Algeria,DZA,495625
+142,Kazakhstan,KAZ,4966666667
+143,Egypt,EGY,51375
+144,Eswatini,SWZ,525
+145,Iraq,IRQ,533
+146,Azerbaijan,AZE,535
+147,The Democratic Republic Of The Congo,COD,535
+148,Sudan,SDN,54
+149,Afghanistan,AFG,5425
+150,Israel (outside Israeli territory),ISR2,555
+151,Belarus,BLR,595
+152,Fiji,FJI,60
+153,Russian Federation,RUS,60875
+154,Tunisia,TUN,615
+155,Brunei Darussalam,BRN,635
+156,Libya,LBY,645
+157,Rwanda,RWA,6466666667
+158,Equatorial Guinea,GNQ,655
+159,Pakistan,PAK,6566666667
+160,Uzbekistan,UZB,6766666667
+161,Palestine,PSE,6983333333
+162,Sri Lanka,LKA,75
+163,Saudi Arabia,SAU,765
+164,Somalia,SOM,775
+165,Syrian Arab Republic,SYR,78
+166,Vietnam,VNM,8166666667
+167,Yemen,YEM,83375
+168,China,CHN,845
+169,Lao People's Democratic Republic,LAO,92
+170,Cuba,CUB,94
+171,Myanmar,MMR,1026666667
+172,Islamic Republic of Iran,IRN,1041428571
+173,Turkmenistan,TKM,107
+174,Democratic People's Republic of Korea,PRK,1125
+175,Eritrea,ERI,1155

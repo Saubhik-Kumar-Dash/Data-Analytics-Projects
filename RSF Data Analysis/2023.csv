@@ -1,0 +1,181 @@
+Rank_2023,EN_country,ISO,Score_N
+1,Norway,NOR,9265
+2,Ireland,IRL,883
+3,Denmark,DNK,9027
+4,Sweden,SWE,8884
+5,Finland,FIN,8842
+6,Netherlands,NLD,7793
+7,Lithuania,LTU,8414
+8,Estonia,EST,8883
+9,Portugal,PRT,8707
+10,East Timor,TLS,8189
+11,Liechtenstein,LIE,8403
+12,Switzerland,CHE,8272
+13,New Zealand,NZL,8354
+14,Czechia,CZE,8054
+15,Canada,CAN,8174
+16,Latvia,LVA,7917
+17,Slovakia,SVK,7837
+18,Iceland,ISL,8269
+19,Samoa,WSM,7139
+20,Luxembourg,LUX,7981
+21,Germany,DEU,8204
+22,Namibia,NAM,8184
+23,Costa Rica,CRI,8592
+24,France,FRA,7853
+25,South Africa,ZAF,7556
+26,United Kingdom,GBR,7871
+27,Australia,AUS,7377
+28,Moldova,MDA,7347
+29,Austria,AUT,7674
+30,Trinidad and Tobago,TTO,7868
+31,Belgium,BEL,7886
+32,Jamaica,JAM,8335
+33,Cabo Verde,CPV,7537
+34,Seychelles,SYC,8333
+35,Taiwan,TWN,7408
+36,Spain,ESP,7671
+37,Andorra,AND,6879
+38,North Macedonia,MKD,6844
+39,Montenegro,MNE,6654
+40,Argentina,ARG,7728
+41,Italy,ITA,6816
+42,Croatia,HRV,7042
+43,Dominican Republic,DOM,769
+44,Tonga,TON,6974
+45,United States,USA,7274
+46,Gambia,GMB,6925
+47,South Korea,KOR,7211
+48,Suriname,SUR,6895
+49,Armenia,ARM,6897
+50,Slovenia,SVN,6854
+51,Belize,BLZ,7067
+52,Uruguay,URY,7203
+53,Romania,ROU,6846
+54,Côte d'Ivoire,CIV,7446
+55,Cyprus,CYP,6597
+56,Kosovo,XKX,67
+57,Poland,POL,6564
+58,Burkina Faso,BFA,7312
+59,Papua New Guinea,PNG,6666
+60,Guyana,GUY,7641
+61,Niger,NER,678
+62,Ghana,GHA,6743
+63,Mauritius,MUS,6607
+64,Bosnia-Herzegovina,BIH,6564
+65,Botswana,BWA,5849
+66,Liberia,LBR,6277
+67,Lesotho,LSO,5939
+68,Japan,JPN,6437
+69,Panama,PAN,6278
+70,Togo,TGO,5717
+71,Bulgaria,BGR,5912
+72,Hungary,HUN,598
+73,Malaysia,MYS,5155
+74,Sierra Leone,SLE,7103
+75,Comoros,COM,6016
+76,Northern Cyprus,CTU,6108
+77,Georgia,GEO,593
+78,Guinea-Bissau,GNB,5879
+79,Ukraine,UKR,5576
+80,Ecuador,ECU,6461
+81,Congo-Brazzaville,COG,5864
+82,Malawi,MWI,614
+83,Chile,CHL,6061
+84,Malta,MLT,6155
+85,Guinea,GIN,5982
+86,Mauritania,MRT,581
+87,Zambia,ZMB,554
+88,Mongolia,MNG,5917
+89,Fiji,FJI,5691
+90,Bhutan,BTN,7646
+91,Serbia,SRB,6151
+92,Brazil,BRA,5536
+93,OECS,CSS,6849
+94,Gabon,GAB,56
+95,Nepal,NPL,6267
+96,Albania,ALB,5641
+97,Israel,ISR,5962
+98,Central African Republic,CAF,5696
+99,Haiti,HTI,6455
+100,Maldives,MDV,5955
+101,Madagascar,MDG,5802
+102,Mozambique,MOZ,4989
+103,Paraguay,PRY,5836
+104,Senegal,SEN,6307
+105,Qatar,QAT,4903
+106,Thailand,THA,5015
+107,Greece,GRC,5552
+108,Indonesia,IDN,4927
+109,Chad,TCD,5618
+110,Peru,PER,6175
+111,Eswatini,SWZ,4642
+112,Benin,BEN,4839
+113,Mali,MLI,5448
+114,Burundi,BDI,5574
+115,El Salvador,SLV,5409
+116,Kenya,KEN,6459
+117,Bolivia,BOL,4758
+118,South Sudan,SSD,4706
+119,Lebanon,LBN,4658
+120,Equatorial Guinea,GNQ,4396
+121,Tunisia,TUN,5849
+122,Kyrgyzstan,KGZ,6425
+123,Nigeria,NGA,4679
+124,DR Congo,COD,4766
+125,Angola,AGO,5717
+126,Zimbabwe,ZWE,4494
+127,Guatemala,GTM,4794
+128,Mexico,MEX,4757
+129,Singapore,SGP,4423
+130,Ethiopia,ETH,5053
+131,Rwanda,RWA,4518
+132,Philippines,PHL,4184
+133,Uganda,UGA,4635
+134,Kazakhstan,KAZ,4828
+135,Sri Lanka,LKA,4213
+136,Algeria,DZA,4553
+137,Uzbekistan,UZB,4574
+138,Cameroon,CMR,491
+139,Colombia,COL,4243
+140,Hong Kong,HKG,4164
+141,Somalia,SOM,4401
+142,Brunei,BRN,4253
+143,Tanzania,TZA,4828
+144,Morocco / Western Sahara ,MAR,4542
+145,United Arab Emirates,ARE,4446
+146,Jordan,JOR,4866
+147,Cambodia,KHM,4348
+148,Sudan,SDN,4096
+149,Libya,LBY,4316
+150,Pakistan,PAK,3799
+151,Azerbaijan,AZE,394
+152,Afghanistan,AFG,3827
+153,Tajikistan,TJK,4026
+154,Kuwait,KWT,3787
+155,Oman,OMN,3599
+156,Palestine,PSE,2898
+157,Belarus,BLR,3962
+158,Nicaragua,NIC,3709
+159,Venezuela,VEN,3778
+160,Laos,LAO,3664
+161,India,IND,41
+162,Djibouti,DJI,3575
+163,Bangladesh,BGD,3663
+164,Russia,RUS,3882
+165,Türkiye,TUR,4125
+166,Egypt,EGY,3023
+167,Iraq,IRQ,2859
+168,Yemen,YEM,2914
+169,Honduras,HND,3461
+170,Saudi Arabia,SAU,3371
+171,Bahrain,BHR,3097
+172,Cuba,CUB,2732
+173,Myanmar,MMR,2503
+174,Eritrea,ERI,1962
+175,Syria,SYR,2894
+176,Turkmenistan,TKM,2501
+177,Iran,IRN,2322
+178,Vietnam,VNM,2611
+179,China,CHN,2517
+180,North Korea,PRK,1392

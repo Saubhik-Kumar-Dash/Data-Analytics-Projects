@@ -1,0 +1,181 @@
+Rank_2022,EN_country,ISO,Score_N
+1,Norway,NOR,9265
+2,Denmark,DNK,9027
+3,Sweden,SWE,8884
+4,Estonia,EST,8883
+5,Finland,FIN,8842
+6,Ireland,IRL,883
+7,Portugal,PRT,8707
+8,Costa Rica,CRI,8592
+9,Lithuania,LTU,8414
+10,Liechtenstein,LIE,8403
+11,New Zealand,NZL,8354
+12,Jamaica,JAM,8335
+13,Seychelles,SYC,8333
+14,Switzerland,CHE,8272
+15,Iceland,ISL,8269
+16,Germany,DEU,8204
+17,East Timor,TLS,8189
+18,Namibia,NAM,8184
+19,Canada,CAN,8174
+20,Czech Republic,CZE,8054
+21,Luxembourg,LUX,7981
+22,Latvia,LVA,7917
+23,Belgium,BEL,7886
+24,United Kingdom,GBR,7871
+25,Trinidad and Tobago,TTO,7868
+26,France,FRA,7853
+27,Slovakia,SVK,7837
+28,Netherlands,NLD,7793
+29,Argentina,ARG,7728
+30,Dominican Republic,DOM,769
+31,Austria,AUT,7674
+32,Spain,ESP,7671
+33,Bhutan,BTN,7646
+34,Guyana,GUY,7641
+35,South Africa,ZAF,7556
+36,Cape Verde,CPV,7537
+37,Ivory Coast,CIV,7446
+38,Taiwan,TWN,7408
+39,Australia,AUS,7377
+40,Moldova,MDA,7347
+41,Burkina Faso,BFA,7312
+42,United States,USA,7274
+43,South Korea,KOR,7211
+44,Uruguay,URY,7203
+45,Samoa,WSM,7139
+46,Sierra Leone,SLE,7103
+47,Belize,BLZ,7067
+48,Croatia,HRV,7042
+49,Tonga,TON,6974
+50,Gambia,GMB,6925
+51,Armenia,ARM,6897
+52,Suriname,SUR,6895
+53,Andorra,AND,6879
+54,Slovenia,SVN,6854
+55,OECS,XCD,6849
+56,Romania,ROU,6846
+57,North Macedonia,MKD,6844
+58,Italy,ITA,6816
+59,Niger,NER,678
+60,Ghana,GHA,6743
+61,Kosovo,XKO,67
+62,Papua New Guinea,PNG,6666
+63,Montenegro,MNE,6654
+64,Mauritius,MUS,6607
+65,Cyprus,CYP,6597
+66,Poland,POL,6564
+67,Bosnia and Herzegovina,BIH,6564
+68,Ecuador,ECU,6461
+69,Kenya,KEN,6459
+70,Haiti,HTI,6455
+71,Japan,JPN,6437
+72,Kyrgyzstan,KGZ,6425
+73,Senegal,SEN,6307
+74,Panama,PAN,6278
+75,Liberia,LBR,6277
+76,Nepal,NPL,6267
+77,Peru,PER,6175
+78,Malta,MLT,6155
+79,Serbia,SRB,6151
+80,Malawi,MWI,614
+81,Cyprus North,CTU,6108
+82,Chile,CHL,6061
+83,Comoros,COM,6016
+84,Guinea,GIN,5982
+85,Hungary,HUN,598
+86,Israel,ISR,5962
+87,Maldives,MDV,5955
+88,Lesotho,LSO,5939
+89,Georgia,GEO,593
+90,Mongolia,MNG,5917
+91,Bulgaria,BGR,5912
+92,Guinea-Bissau,GNB,5879
+93,Congo,COG,5864
+94,Tunisia,TUN,5849
+95,Botswana,BWA,5849
+96,Paraguay,PRY,5836
+97,Mauritania,MRT,581
+98,Madagascar,MDG,5802
+99,Angola,AGO,5717
+100,Togo,TGO,5717
+101,Central African Republic,CAF,5696
+102,Fiji,FJI,5691
+103,Albania,ALB,5641
+104,Chad,TCD,5618
+105,Gabon,GAB,56
+106,Ukraine,UKR,5576
+107,Burundi,BDI,5574
+108,Greece,GRC,5552
+109,Zambia,ZMB,554
+110,Brazil,BRA,5536
+111,Mali,MLI,5448
+112,El Salvador,SLV,5409
+113,Malaysia,MYS,5155
+114,Ethiopia,ETH,5053
+115,Thailand,THA,5015
+116,Mozambique,MOZ,4989
+117,Indonesia,IDN,4927
+118,Cameroon,CMR,491
+119,Qatar,QAT,4903
+120,Jordan,JOR,4866
+121,Benin,BEN,4839
+122,Kazakhstan,KAZ,4828
+123,Tanzania,TZA,4828
+124,Guatemala,GTM,4794
+125,The Democratic Republic Of The Congo,COD,4766
+126,Bolivia,BOL,4758
+127,Mexico,MEX,4757
+128,South Sudan,SSD,4706
+129,Nigeria,NGA,4679
+130,Lebanon,LBN,4658
+131,Eswatini,SWZ,4642
+132,Uganda,UGA,4635
+133,Uzbekistan,UZB,4574
+134,Algeria,DZA,4553
+135,Morocco,MAR,4542
+136,Rwanda,RWA,4518
+137,Zimbabwe,ZWE,4494
+138,United Arab Emirates,ARE,4446
+139,Singapore,SGP,4423
+140,Somalia,SOM,4401
+141,Equatorial Guinea,GNQ,4396
+142,Cambodia,KHM,4348
+143,Libya,LBY,4316
+144,Brunei Darussalam,BRN,4253
+145,Colombia,COL,4243
+146,Sri Lanka,LKA,4213
+147,Philippines,PHL,4184
+148,Hong Kong,HKG,4164
+149,Turkey,TUR,4125
+150,India,IND,41
+151,Sudan,SDN,4096
+152,Tajikistan,TJK,4026
+153,Belarus,BLR,3962
+154,Azerbaijan,AZE,394
+155,Russian Federation,RUS,3882
+156,Afghanistan,AFG,3827
+157,Pakistan,PAK,3799
+158,Kuwait,KWT,3787
+159,Venezuela,VEN,3778
+160,Nicaragua,NIC,3709
+161,Lao People's Democratic Republic,LAO,3664
+162,Bangladesh,BGD,3663
+163,Oman,OMN,3599
+164,Djibouti,DJI,3575
+165,Honduras,HND,3461
+166,Saudi Arabia,SAU,3371
+167,Bahrain,BHR,3097
+168,Egypt,EGY,3023
+169,Yemen,YEM,2914
+170,Palestine,PSE,2898
+171,Syrian Arab Republic,SYR,2894
+172,Iraq,IRQ,2859
+173,Cuba,CUB,2732
+174,Vietnam,VNM,2611
+175,China,CHN,2517
+176,Myanmar,MMR,2503
+177,Turkmenistan,TKM,2501
+178,Islamic Republic of Iran,IRN,2322
+179,Eritrea,ERI,1962
+180,Democratic People's Republic of Korea,PRK,1392
